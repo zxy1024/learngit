@@ -1,3 +1,8 @@
 new commit
 new branch
+<<<<<<< HEAD
 & simple
+=======
+AND simple
+>>>>>>> feature1
+and simple
