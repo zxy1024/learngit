@@ -6,3 +6,4 @@ new branch
 AND simple
 >>>>>>> feature1
 and simple
+fen zhi guan li ce lue
